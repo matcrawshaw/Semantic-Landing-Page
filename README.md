@@ -6,3 +6,4 @@ The challenge was to make the website landing page more accessable using semanti
 
 I also cleaned up the CSS classes, removing duplication and consolidating where possible in order to clean up the code.
 
+![code refactor](https://user-images.githubusercontent.com/119896882/226141645-a027c1e3-f3b4-4b83-8e2b-406b56c7c5e8.PNG)
